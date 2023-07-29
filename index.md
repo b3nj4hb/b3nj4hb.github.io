@@ -17,20 +17,23 @@ April 2020 - still studying
 
 ## Skills:
 
+<h4 style="margin-bottom:2px; margin-top:2px;">Web:</h4>
+<p style="margin-bottom:4px;">&#x2022; Spring &#x2022; Angular &#x2022; BootStrap &#x2022; NodeJS &#x2022; REST API</p>
+
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
 <p style="margin-bottom:4px;">&#x2022; Python &#x2022; Java</p>
-
-<h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks & Libraries:</h4>
-<p style="margin-bottom:4px;">&#x2022; Spring &#x2022; Angular &#x2022; BootStrap</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Operating Systems:</h4>
 <p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat, Arch)</p>
 
+<h4 style="margin-bottom:2px; margin-top:2px;">Languages:</h4>
+<p style="margin-bottom:4px;">&#x2022; Spanish &#x2022; English &#x2022; Portuguese</p>
+
 <h4 style="margin-bottom:2px; margin-top:2px;">Databases:</h4>
-<p style="margin-bottom:4px;">&#x2022; SQL Server &#x2022; DB2 &#x2022; Oracle &#x2022; MySQL &#x2022; PostgreSQL</p>
+<p style="margin-bottom:4px;">&#x2022; Oracle &#x2022; DB2 AS/400 &#x2022; SQL Server &#x2022; MySQL &#x2022; PostgreSQL</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
-<p style="margin-bottom:20px;">&#x2022; Git &#x2022; Github &#x2022; Docker</p>
+<p style="margin-bottom:20px;">&#x2022; Git &#x2022; Github &#x2022; Docker &#x2022; AWS</p>
 
 ---
 
