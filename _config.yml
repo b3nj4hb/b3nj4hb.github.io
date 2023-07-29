@@ -1,0 +1,34 @@
+title: Benjamin Huamani
+logo: /assets/img/bdhb_profile.jpg
+email: bdhb2509@gmail.com
+description: Systems Engineer College Student.
+favicon: true
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+# color-scheme: light
+
+google_analytics: G-0RXV630V8X
+
+url: "https://b3nj4hb.github.io/"
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+platforms:
+  - name: Curriculum Vitae
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link: ./assets/files/benjamin_huamani.pdf
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/b3nj4hb
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/benjaminhuamani
+  - name: Projects
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./projects
+  - name: Certifications
+    icon: <i class="fa-solid fa-award"></i>
+    link: ./certifications
