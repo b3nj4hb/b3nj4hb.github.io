@@ -8,22 +8,14 @@ permalink: /certifications
 ## Certifications:
 
 <div class="card">
-  <h3>Google Go Specialization</h3>
-  <p><b>Coursera</b>, October 2022<br>
-  Credential Id: XPZSRCAJNPX2</p>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/XPZSRCAJNPX2"><span class="card-link-spanner"></span></a>
+  <h3>Scrum Methodology</h3>
+  <p><b>Edutin</b>, September 2022<br></p>
+  <a href="https://app.edutin.com/verify/6744787"><span class="card-link-spanner"></span></a>
+  <img src="assets\img\scrum.png" alt="CertificadoScrum">
 </div>
 
 <div class="card">
-  <h3>Python Specialization</h3>
-  <p><b>Coursera</b>, August 2020<br>
-  Credential Id: 5JHL6J6K4EKL</p>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5JHL6J6K4EKL"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Algorithmic Toolbox</h3>
-  <p><b>Coursera</b>, June 2022<br>
-  Credential Id: MDAP6XXV2QCM</p>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/MDAP6XXV2QCM"><span class="card-link-spanner"></span></a>
+  <h3>Python</h3>
+  <p><b>Udemy</b>, August 2020<br></p>
+  <img src="assets\img\python.jpg" alt="CertificadoPython">
 </div>
