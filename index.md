@@ -73,7 +73,7 @@ Apr. 2020 - Jul. 2023</p>
 ## Projects:
 
 <div class="card">
-  <h3>Web application to manage training for adra</h3>
+  <h3>Web application to manage training for ADRA</h3>
   <p><b>Angular and Spring</b></p>
   <ul>
     <li>A development project for a web application to manage training, using Angular. I received a recognition from the systems engineering school</li>
@@ -82,7 +82,7 @@ Apr. 2020 - Jul. 2023</p>
 </div>
 
 <div class="card">
-  <h3>web application for the management of chosica municipal licenses</h3>
+  <h3>Web application for the management of Chosica municipal licenses</h3>
   <p><b>Angular and NodeJS</b></p>
   <ul>
     <li>A web project to manage the operating licenses of the municipality.</li>
